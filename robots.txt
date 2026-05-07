@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sriramoda.github.io/sitemap.xml
