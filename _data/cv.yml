@@ -1,7 +1,7 @@
 cv:
   name: Sriram Swamynathan
   label: Astrophysicist
-  email: swamynathan@zib.de,srihawkeinstram@gmail.com
+  email: swamynathan@zib.de , srihawkeinstram@gmail.com
   location: Berlin, Germany
   image: ""
   summary: Astrophysicist working on computational astrophysics, galaxy formation, and HPC/GPU computing.
