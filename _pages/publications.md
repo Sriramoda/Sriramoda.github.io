@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<p><em>This page is under construction.</em></p>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
