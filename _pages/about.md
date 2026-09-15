@@ -13,7 +13,7 @@ profile:
     <p>Zuse Institute Berlin (ZIB)</p>
     <p>Berlin, Germany</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
