@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm an astrophysicist. I did my MSc in Astrophysics at the University of Bonn, where my thesis used RAMSES adaptive-mesh-refinement simulations to study AGN feedback and black hole growth at high redshift (z > 5), supervised by Dr. Emilio Romano-Díaz and Prof. Cristiano Porciani. Right now I'm doing a second Master's in Planetary Science and Space Exploration at Freie Universität Berlin, and working as a Research Assistant in the Distributed Algorithms and Supercomputing Department at the [Zuse Institute Berlin (ZIB)](https://www.zib.de/), where I develop a Julia package for simulating the rotation of comet 67P.
+I'm an astrophysicist. I did my MSc in Astrophysics at the University of Bonn, where my thesis used the RAMSES code to study AGN feedback and galaxy formation in the early universe, supervised by Dr. Emilio Romano-Díaz and Prof. Cristiano Porciani. Right now I'm doing a second Master's in Planetary Science and Space Exploration at Freie Universität Berlin, and working as a Research Assistant in the Distributed Algorithms and Supercomputing Department at the [Zuse Institute Berlin (ZIB)](https://www.zib.de/), where I develop a Julia package for simulating the rotation of comet 67P with Dr. Matthias Läuter.
 
 **Research interests:** computational astrophysics, galaxy formation theory, cosmology, high-performance and GPU computing, and quantum computing, which I follow more as an enthusiast than an expert.
 
