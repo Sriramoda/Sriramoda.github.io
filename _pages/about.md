@@ -31,4 +31,4 @@ I'm an astrophysicist. I did my MSc in Astrophysics at the University of Bonn, w
 
 **Research interests:** computational astrophysics, galaxy formation theory, cosmology, high-performance and GPU computing, and quantum computing, which I follow more as an enthusiast than an expert.
 
-I come from Rajapalayam, a small town in Tamil Nadu, India, known for a magnificent dog breed, and I currently live in Berlin. This is where I put up my research and projects, write about astrophysics and planetary science, and sometimes just write about life and the philosophies I keep circling back to.
+I grew up in Rajapalayam, a small town in Tamil Nadu, India, known for its magnificent dog breed, and now find myself in Berlin. This space is where I share the things I work on and think about, from research and projects in astrophysics and planetary science to occasional thoughts on life and the philosophies I keep coming back to.
