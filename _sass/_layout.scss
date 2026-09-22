@@ -5,9 +5,22 @@
 @use "variables" as v;
 
 body {
+  position: relative;
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+
+  &::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background-image: url("/assets/img/jwst-deep-field.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: var(--global-bg-image-opacity);
+  }
 
   h1,
   h2,
